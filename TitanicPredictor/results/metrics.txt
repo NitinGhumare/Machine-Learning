@@ -1,5 +1,0 @@
-Accuracy: 0.7672
-ROC AUC: 0.7860
-Confusion matrix:
-[[174  15]
- [ 46  27]]

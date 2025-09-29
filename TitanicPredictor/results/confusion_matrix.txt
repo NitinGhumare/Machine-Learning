@@ -1,3 +1,0 @@
-Confusion matrix (rows=actual, cols=predicted):
-[[174  15]
- [ 46  27]]
