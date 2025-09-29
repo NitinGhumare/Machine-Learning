@@ -1,0 +1,11 @@
+Logistic Regression Accuracy: 0.7013
+Logistic Regression ROC AUC: 0.8128
+Confusion Matrix (LR):
+[[81 19]
+ [27 27]]
+
+SVM Accuracy: 0.7338
+SVM ROC AUC: 0.7963
+Confusion Matrix (SVM):
+[[84 16]
+ [25 29]]

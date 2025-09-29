@@ -1,0 +1,2 @@
+Chosen k: 5
+Inertia: 106.8983
